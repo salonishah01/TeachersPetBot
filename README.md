@@ -1,175 +1,230 @@
-<p align="center"><img src="https://github.com/Ashwinshankar98/TeachersPetBot/blob/main/images/teacherspet.png" alt="alt text" width=200 height=200>
+<h1 align= "center"><b>WolfTrack</b></h1>
+
+**Version 1 tags:**<br/>
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+[![DOI](https://zenodo.org/badge/408669082.svg)](https://zenodo.org/badge/latestdoi/408669082)
+[![GitHub Release](https://img.shields.io/github/release/Himanshuu-Gupta/WolfTrack)](https://github.com/Himanshuu-Gupta/WolfTrack/releases/tag/wolftrack)
+[![Build Status](https://app.travis-ci.com/Himanshuu-Gupta/WolfTrack.svg?branch=main)](https://app.travis-ci.com/Himanshuu-Gupta/WolfTrack)
+
+**Version 2 tags:**<br/>
+
+[![DOI](https://zenodo.org/badge/418295938.svg)](https://zenodo.org/badge/latestdoi/418295938)
+[![GitHub Release](https://img.shields.io/github/release/ArpithaVijayakumar/WolfTrack)](https://github.com/ArpithaVijayakumar/WolfTrack/releases/tag/wolftrack)
+![Python](https://img.shields.io/badge/python-v3.8+-yellow.svg)
+![GitHub issues](https://img.shields.io/github/issues/ArpithaVijayakumar/WolfTrack)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/ArpithaVijayakumar/WolfTrack)
+![Lines of code](https://img.shields.io/tokei/lines/github/ArpithaVijayakumar/WolfTrack)
+[![Build Status](https://app.travis-ci.com/UnnatiPrema/WolfTrackPlus.svg?branch=main)](https://app.travis-ci.com/UnnatiPrema/WolfTrackPlus)
+[![codecov](https://codecov.io/gh/ArpithaVijayakumar/WolfTrackPlus/branch/main/graph/badge.svg?token=h4F94IJMzj)](https://codecov.io/gh/ArpithaVijayakumar/WolfTrackPlus)
+
+**Version 3 Tags:** <br/>
+
+[![DOI](https://zenodo.org/badge/428888852.svg)](https://zenodo.org/badge/latestdoi/428888852)
+![Python](https://img.shields.io/badge/python-v3.8+-green.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Build Status](https://github.com/ramyasaimullapudi/WolfTrackPlus/workflows/Build%20Status/badge.svg)](https://github.com/ramyasaimullapudi/WolfTrackPlus/actions)
+[![Codestyle: Black](https://github.com/ramyasaimullapudi/WolfTrackPlus/workflows/Black%20Format%20Checker/badge.svg)](https://github.com/ramyasaimullapudi/WolfTrackPlus/actions)
+
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/ramyasaimullapudi/WolfTrackPlus)
+![GitHub open issues](https://img.shields.io/github/issues/ramyasaimullapudi/WolfTrackPlus)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/ramyasaimullapudi/WolfTrackPlus)
+![GitHub all downloads](https://img.shields.io/github/downloads/ramyasaimullapudi/WolfTrackPlus/total)
+[![codecov](https://codecov.io/gh/ramyasaimullapudi/WolfTrackPlus/branch/main/graph/badge.svg?token=Sfdls5yVnN)](https://codecov.io/gh/ramyasaimullapudi/WolfTrackPlus)
+[![Documentation Status](https://readthedocs.org/projects/wolftrackplus/badge/?version=latest)](https://wolftrackplus.readthedocs.io/en/latest/?badge=latest)
+
+
+**Goal:**<br/>
+
+One stop shop for your very own personal Job-tracker application!
+
+**Documentation:**<br/>
+Checkout our documentation for source code and test cases at https://wolftrackplus.readthedocs.io/en/latest/
+
+**Project Description:**
+
+Do away with complicated, messy spreadsheets! WolfTrack keeps track of every job detail, we're talking about dates, notes, tasks, job descriptions, salaries, locations, company insight and more!
+
+**So, let's go get that job! 😎**
+
+
+## Watch WolfTrack in action 
+
+
+
+<!-- 
+![HTML5]()
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff) -->
+
+**Built Using:**
+
+<code><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
+<code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></a></code>
+<code><a href="https://getbootstrap.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></a></code>
+<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
+<code><a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></a></code>
+<code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
+<code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
+<!-- <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
+<code><a href="https://github.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a></code> -->
+<!-- <code><a href="https://code.visualstudio.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
+<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>-->
+
+<p align="center">
+<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="150"> <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="150"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="150"> <img src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" width ="150"/> <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width ="150"/> 
+</p>
+
+---
+
+## Getting started:
+
+  - ### Prerequisite:
+      - Download [Python3.x](https://www.python.org/downloads/).
+
+   - ### Installation:
+      E.g If you downloaded `Python 3.8.7` above, then
+
+      **Steps to setup virtual environment**
+     - Create a virtual environment:
+
+        `python3.8 -m venv test_env`
+    
+     - Activate the virtual environment: 
+
+        `source test_env/bin/activate`
+    
+     - Build the virtual environment:(must be present in [project directory](./))
+
+        `pip install -r requirements.txt`
+
+  - ### Run Instructions
+
+     **To run/test the site locally:**
+
+     - Clone [WolfTrack github repo](https://github.com/Himanshuu-Gupta/WolfTrack).
+
+     - Navigate to [project directory](./).
   
-  <h1 align="center"> Teacher's Pet Bot</h1>
-  
-<h2 align="center"> Streamline Your Class Discord</h1>
+     - Run `python main.py` or `python3 main.py`
+
+     - Site will be hosted at:
+       `http://127.0.0.1:5000/`
+    
+---
+## Third-Party Tools
+
+- [AWS Relational Database Service-RDS](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html)
+  -  The AWS Database is used as a primary DB by the location. The application interacts with the DB and no additional steps are required from the users. For any contributors or future developers, please mail to wolftrackse@gmail.com to get your AWS IAM user account details to connect to AWS RDS.
+
+---
+## Preview
+
+- **Sign Up Page**
+  - User Interface to signup to the app
+![image](https://user-images.githubusercontent.com/51504486/144655593-be1df836-fe47-420c-a6ce-112f31cddd2a.png)
+
+- **Login Page**
+  - User Interface to login to the Wolftrack app. After successful login, user will be redirected to the Dashboard page
+![image](https://user-images.githubusercontent.com/51504486/144655666-a5d8eae0-efb2-4fd4-94da-b7dae79f588e.png)
+
+- **Dashboard** 
+  - The 4 section (Wishlist, Applied, In-process, Offers) categorizes all the applications based on the current status and shows 3 applications on the home page. The tool allows the user to create new applications by clicking on 'Add New' button while the 'View More' button allows the user to list applications in each section. For each section the user has three options:
+    1. Change the status of the application 
+    2. Edit the details of any application
+    3. Delete the application
+    
+    ![image](https://user-images.githubusercontent.com/51504486/144657864-12892f0c-e811-470e-81a8-ed13799b9808.png)
+
+  - The left-most section of the dashboard shows the User details. The user also has the option to edit his/her profile.
+
+  - Upcoming Activities - The upcoming activities shows the top 5 activities nearing the deadline. The activities are picked up from the applications and the company name and the due date is displayed on this section. 
+  - Location- The map shows the various office locations for the applied companies. The thought behind is to better plan the commute and residence based on the location distance
+    ![image](https://user-images.githubusercontent.com/51504486/144658182-1cb65338-09dd-4698-acde-4b5651ca5022.png)
+ 
+- **Edit User Profile** 
+  - User has the option to edit profile
+    ![image](https://user-images.githubusercontent.com/51504486/144659025-855057d1-2d20-4c89-b85c-96f4e952e86e.png)
+    
+- **Add New Application** 
+  - User interface for adding a new application to the portal
+    ![image](https://user-images.githubusercontent.com/51504486/144658254-bebf38e8-167e-4e15-927e-96d94cb6732a.png)
+
+- **Edit Existing Application**
+  - The user has the option to edit the details of each applcation
+    ![image](https://user-images.githubusercontent.com/51504486/144658556-280c962d-5882-400f-8143-86e453a53f3c.png)
+    
+- **Delete Application**
+  - The user has the option to delete an applcation
+    ![image](https://user-images.githubusercontent.com/51504486/144658720-bb9461f1-6ce1-4de3-9eeb-302812a10490.png)
+    
+- **Change status of an application**
+  - The user has the option to change the status of an applcation
+    ![image](https://user-images.githubusercontent.com/51504486/144658895-e46c0aa6-0e1a-41ac-b349-8f4e2560d282.png)
+    
+---
+## Email Notifiications
+
+An email is sent when a new account is created, new job application is submitted, or a status change in application.
+![image](https://user-images.githubusercontent.com/51504486/144724525-adb6691e-046a-479c-a050-341b9cf64d73.png)
+
+![image](https://user-images.githubusercontent.com/51504486/144724556-7d3bad98-5175-4663-bc2d-b601dac4137f.png)
+
+
+### Phase 1:
+
+- [x] Create database ER diagram
+- [x] Create SQL DML and DDL queries
+- [x] Create Dashboard Page
+- [x] Create Login Page
+- [x] Create Signup Page
+- [x] Setup Flask
+- [x] Add Unit testing
+- [x] Add Error Handling mechanisms
+- [x] Mock of Job Application Map using Power BI
+
+### Phase 2:
+
+- [x] Integrating Components to create a complete workflow
+- [x] Revamped database design following ACID properties
+- [x] Added validations to user input for Login, Signup and Add Application 
+- [x] Added style checkers which were not existing before
+- [x] Made UI to be more reactive by enforcing the user to enter required fields
+- [x] Create APIs for relevant functionalities
+
+### Phase3:
+For more detailed description - Check [Changes.md](https://github.com/ramyasaimullapudi/WolfTrackPlus/blob/main/docs/Changes.md)
+- [x] Editing an application
+- [x] Change the application status
+- [x] Delete an application
+- [x] Added scrollbar for job listings on dashboard
+- [x] Edit the user profile
+- [x] Auto documentation for the project using Sphinx
+- [x] Email reminders for application creation and modification
+- [x] Format checkers implemented
+- [x] Hosted the website - http://rjprabhu.pythonanywhere.com/
+   
+### Phase4:
+- [ ] Display the location of the application on the map
+- [ ] Share your profile with others
+- [ ] Reading mails from your inbox and automatically adding/updating the status of the application
+- [ ] Enabling Desktop Notifications
 
+## Contributions to the Project
+Please refer to the [Contributing.md](https://github.com/ramyasaimullapudi/WolfTrackPlus/blob/main/CONTRIBUTING.md) if you want to contrbute to the Wolftrack source code. Follow all the guidelines mentioned and raise a pull request for the developers to review before the code goes to the main source code.
 
-[![DOI](https://zenodo.org/badge/429658277.svg)](https://zenodo.org/badge/latestdoi/429658277)
-![Python](https://img.shields.io/badge/python-v3.7+-brightgreen.svg)
-![GitHub](https://img.shields.io/github/license/salonishah01/TeachersPetBot)
-![GitHub issues](https://img.shields.io/github/issues/salonishah01/TeachersPetBot)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/salonishah01/TeachersPetBot)
-[![codecov](https://codecov.io/gh/salonishah01/TeachersPetBot/branch/main/graph/badge.svg?token=QTKU51PZSO)](https://codecov.io/gh/salonishah01/TeachersPetBot)
-![GitHub deployments](https://img.shields.io/github/deployments/Ashwinshankar98/TeachersPetBot/discord-bot-phase2)<br/>
 
-<h2>Software Engineering Project for CSC 510</h2>
+## Contact 
+In case of any issues, please e-mail your queries to ramyasaimullapudi@gmail.com or raise an issue on this repository
 
-
-Teacher's Pet is a Discord Bot for class instructors to streamline their Discord servers. Discord is a great tool for communication, and its functionalities can be enhanced by bots and integrations.
-
-
-<h4>Charts</h4>
-Instructors (like TAs and Professors) can quickly make graphs and charts directly in Discord to share with students or users. Instructors can use this feature to share grade distributions, lecture participation and attendance, or other course statistics. All charts are named and stored in a JSON file when they are created. Students have access to a command that allows them to view previously presented charts.
-
-<p align="left"><img width=65% src="https://github.com/chandur626/TeachersPetBot/blob/update-readme/docs/media/charts.gif"></p>
-
-<h4>Email Configuration</h4>
-
-This feature enables users to configure their email address in the system to receive important notifications, attachments from professors, and assignment reminders. Users can also update, view, and unconfigure a configured email address through the system.
-
-<p align="left"><img width=65% src="https://github.com/chandur626/TeachersPetBot/blob/update-readme/docs/media/email-address.gif"></p>
-
-<h4>Email Interaction</h4>
-
-This feature notifies all students regarding the next assignment deadline, which is due in a day, through email.
-
-<p align="left"><img width=65% src="https://github.com/chandur626/TeachersPetBot/blob/update-readme/docs/media/email-reminder.gif"></p>
-
-<h4>Re-Grading</h4>
-
-This feature provides a way for students to submit regrade requests, and Instructors can collect information of the requests submitted. There are various commands included to add, update, display, and remove regrade requests.
-This use case was based on a regrade request submission for CSE 510 SE FALL21 mid examination.
-
-<p align="left"><img width=65% src="https://github.com/chandur626/TeachersPetBot/blob/update-readme/docs/media/Regrade.gif"></p>
-
-
-<h4>Link Saving</h4>
-
-This feature is helpful to save all the messages that contain important URLs. we have built a user command "!send_links"  This command lets users access all messages that contain URLs. The messages Containing URLs are automatically get appended in a file and the file is attached when the "!send_links" command is input.
-
-<p align="left"><img width=65% src="https://github.com/chandur626/TeachersPetBot/blob/update-readme/docs/media/link-saving.gif"></p>
-
-<h4>Project Event</h4>
-
-This feature allows instructors or teaching assistants to create a project event by providing information such as description, link for project submission and deadline. The deadline reminder is taken care of Email Interaction feature.
-
-<p align="left"><img width=65% src="https://github.com/chandur626/TeachersPetBot/blob/update-readme/docs/media/project-event.gif"></p>
-
-
-<h4>Spam Detection</h4>
-This feature is used to detect spam in message channels. When a user tries to send too many messages in the channel, it gives a warning. This is useful when multiple users are trying to send mutiple messages. The warning lets the student know that they have sent too many messages. 
-
-<p align="left"><img width=65% src="https://github.com/chandur626/TeachersPetBot/blob/update-readme/docs/media/Spam-Detection.gif"></p>
-
-<hr />
-
-<a name="instrun"></a>
-<h2> Installation and Running </h2>
-
-#### Tools and Libraries Used
-In addition to the packages from [requirements.txt](https://github.com/Ashwinshankar98/TeachersPetBot/blob/main/requirements.txt) which need to be installed, please have the following installed on your machine:
-* [Python 3.9.7](https://www.python.org/downloads/)
-* [Sqlite](https://www.sqlite.org/download.html)
-
-To install and run Teacher's Pet, follow instructions in the [Installation and Testing Guide](https://github.com/Ashwinshankar98/TeachersPetBot/blob/main/Installation.md).
-
-
-<a name="testing"></a>
-
-<h2>Testing </h2>
-
-To run tests on the Teacher's Pet, follow instructions in the [Installation and Testing Guide](https://github.com/Ashwinshankar98/TeachersPetBot/blob/main/Installation.md#Run-Tests).
-
-<hr />
-
-<a name="commands"></a>
-<h2> Bot Commands </h2>
-
-<h3> Bot commands from iteration III </h3>
-
-
-:open_file_folder: [!regrade-request command](https://github.com/chandur626/TeachersPetBot/blob/main/docs/Regrade/Regrade.md)
-
-:open_file_folder: [!update-request command](https://github.com/chandur626/TeachersPetBot/blob/main/docs/Regrade/Regrade.md)
-
-:open_file_folder: [!remove-request command](https://github.com/chandur626/TeachersPetBot/blob/main/docs/Regrade/Regrade.md)
-
-:open_file_folder: [!display-requests command](https://github.com/chandur626/TeachersPetBot/blob/main/docs/Regrade/Regrade.md)
-
-:open_file_folder: [!chart command](https://github.com/chandur626/TeachersPetBot/blob/update-readme/docs/charts/charts.md)
-
-:open_file_folder: [!check_chart command](https://github.com/chandur626/TeachersPetBot/blob/update-readme/docs/charts/check_chart.md)
-
-:open_file_folder: [!create_email_command](https://github.com/chandur626/TeachersPetBot/blob/update-readme/docs/email_address/create_email.md)
-
-:open_file_folder: [!view_email_command](https://github.com/chandur626/TeachersPetBot/blob/update-readme/docs/email_address/view_email.md)
-
-:open_file_folder: [!update_email_command](https://github.com/chandur626/TeachersPetBot/blob/update-readme/docs/email_address/update_email.md)
-
-:open_file_folder: [!remove_email_command](https://github.com/chandur626/TeachersPetBot/blob/update-readme/docs/email_address/remove_email.md)
-
-:open_file_folder: [!project_event command](https://github.com/chandur626/TeachersPetBot/blob/update-readme/docs/events/project_event.md)
-
-<br>
-<h3> Bot commands from iteration I and II </h3>
-
-`!setInstructor <@member>` Set a server member to be an instructor (Instructor command)
-
-`!removeInstructor <@member>` Remove a server member from the instructor role (Instructor command)
-
-`!getInstructor` Get the current instructors in the server
-
-`!attendance` Find attendance from voice channel (Instructor command)
-
-`!ask "<question>"` Ask a question  
-
-`!answer <question_number> "<answer>"` Answer a question
-
-`!poll <command>` Run a poll for students (Instructor command)
-
-`!create` Start creating an event (Instructor command) 
-
-`!oh enter` Enter an office hour queue as an individual student  
-
-`!oh enter <group_id>` Enter an office hour queue with a group of students  
-
-`!oh exit` Exit the office hour queue  
-
-`!oh next` Go to next student in queue as an instructor (Instructor command)
-
-`!help` Gets the descriptions for all commands
-
-`!help <command>` Describes a command in detail
-
-`!ping` Find the latency of network
-
-`!stats` Gets the statistics of system and softwares used
-
-<hr />
-
-<a name="fscope"></a>
-
-<h2> Future Scope </h2>
-
-This bot has endless possibilities for functionality. Features which we are interested in adding but did not have time for include but are not limited to:
-
-  * Custom Events
-  * Allow events to be edited
-  * Show error information on discord
-  * Make Instructor commands private
-  * Add new roles
-  * Track participation and user ranking
-  * Refactor code to use cogs
-  * Save data charts on DB rather than locally in json
-  * Store data based on user emote reactions to instructor messages
-
-For a detailed description of each of the above future enhancements listed visit [Future Scope](https://github.com/chandur626/TeachersPetBot/projects/2).
-
-<hr />
-
-
-<h3> Team Members </h3>
+## Contributors:
 
 [Romil Shah](https://github.com/romil2807)
 
@@ -179,10 +234,9 @@ For a detailed description of each of the above future enhancements listed visit
 
 [Saloni Shah](https://github.com/salonishah01)
 
-<h3> Previous Authors </h3>
-
-#### Chandrahas Reddy Mandapati
-#### Sri Pallavi Damuluri
-#### Niraj Lavani
-#### Harini Bharata
-#### Sandesh Aladhalli Shivarudre Gowda
+## Previous Contributors:
+Ramya Sai Mullapudi <br/>
+Rohan Prabhune <br/>
+Krishna Saurabh Vankkad <br/>
+Arjun Madhusudan <br/>
+Lakshmi Swetha Gavini <br/>
