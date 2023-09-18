@@ -222,7 +222,7 @@ Please refer to the [Contributing.md](https://github.com/ramyasaimullapudi/WolfT
 
 
 ## Contact 
-In case of any issues, please e-mail your queries to ramyasaimullapudi@gmail.com or raise an issue on this repository
+In case of any issues, please e-mail your queries to rushilvegada@gmail.com or raise an issue on this repository
 
 ## Contributors:
 
