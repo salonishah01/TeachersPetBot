@@ -1,3 +1,8 @@
+<h1 align= "center"><b>WolfTrackPlus</b></h1>
+
+## Watch WolfTrack in action 
+
+
 ## What was hard about this process, how could that pain have been avoided, and what practices are you committing to perform in Project 2 to avoid that pain. ##
 
 In the initial phase of our software engineering project, our team encountered a multitude of challenges, ranging from team dynamics to technical execution. To provide a comprehensive perspective on our journey, this discussion will be segmented into two main areas: the Team's Perspective and the Technicalities.
