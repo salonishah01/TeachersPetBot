@@ -48,9 +48,6 @@ Do away with complicated, messy spreadsheets! WolfTrack keeps track of every job
 **So, let's go get that job! 😎**
 
 
-## Watch WolfTrack in action 
-
-
 
 <!-- 
 ![HTML5]()
