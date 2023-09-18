@@ -1,8 +1,10 @@
 <h1 align= "center"><b>WolfTrackPlus</b></h1>
 
-** Watch WolftrackPlus in Action
+### Watch WolftrackPlus in Action
 
 [Youtube Link](https://youtu.be/Z_OqqHXdwJ0)
+
+### Version Tags
 
 **Version 1 tags:**<br/>
 
