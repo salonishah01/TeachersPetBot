@@ -10,7 +10,6 @@
 ![GitHub](https://img.shields.io/github/license/salonishah01/TeachersPetBot)
 ![GitHub issues](https://img.shields.io/github/issues/salonishah01/TeachersPetBot)
 ![GitHub closed issues](https://img.shields.io/github/issues-closed/salonishah01/TeachersPetBot)
-![Lines of code](https://tokei.rs/b1/github/salonishah01/TeachersPetBot)
 [![codecov](https://codecov.io/gh/salonishah01/TeachersPetBot/branch/main/graph/badge.svg?token=QTKU51PZSO)](https://codecov.io/gh/salonishah01/TeachersPetBot)
 ![GitHub deployments](https://img.shields.io/github/deployments/Ashwinshankar98/TeachersPetBot/discord-bot-phase2)<br/>
 
