@@ -1,4 +1,4 @@
-<h1 align= "center"><b>WolfTrack</b></h1>
+<h1 align= "center"><b>WolfTrackPlus</b></h1>
 
 **Version 1 tags:**<br/>
 
