@@ -29,7 +29,6 @@
 | Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer) | 1.8   |                                                                                                                |
 | Evidence that the members of the team are working across multiple places in the code base                                                               | 1.8   |                                                                                                                |
 | Short release cycles                                                                                                                                    | 2.4   |
-
 |Does your website and documentation provide a clear, high-level overview of your software?|Yes||
 |Does your website and documentation clearly describe the type of user who should use your software?|Yes||
 |Do you publish case studies to show how your software has been used by yourself and others?|Yes||
