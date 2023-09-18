@@ -4,33 +4,33 @@ Project - [Polly](https://github.com/apurva-s/polly)
 |-----|---------|-----|
 |Video| 2 | [Video](https://www.youtube.com/watch?v=pZQN-dwlo9k)|
 |workload is spread over the whole team (one team member is often Xtimes more productive than the others... but nevertheless, here is a track record that everyone is contributing a lot)| 1.5| [contributor stats](https://github.com/chandur626/TeachersPetBot/graphs/contributors)
-|Number of commits|2|Total commits are |
-|Number of commits: by different people	|2.5||
-|Issues reports: there are many	|2||
-|Issues are being closed	|2||
+|Number of commits|2||
+|Number of commits: by different people	|2.5|[commits stats](https://github.com/apurva-s/polly/graphs/contributors?from=2021-09-05&to=2023-09-18&type=c)|
+|Issues reports: there are many	|2|[Issues](https://github.com/apurva-s/polly/issues)|
+|Issues are being closed	|2| https://github.com/apurva-s/polly/issues |
 |DOI badge: exists	|3||
-|Docs: doco generated, format not ugly	|2||
-|Docs: what: point descriptions of each class/function (in isolation)|1.5||
+|Docs: doco generated, format not ugly	|2| https://github.com/apurva-s/polly/blob/main/docs/BootstrapDocumentation_1.pdf , https://github.com/apurva-s/polly/blob/main/docs/code_documentation.pdf|
+|Docs: what: point descriptions of each class/function (in isolation)|1.5| https://github.com/apurva-s/polly/blob/main/backend/README.md |
 |Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z	|2.5||
-|Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing	|1||
-|Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code.|1.5||
+|Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing	|1| https://github.com/apurva-s/polly/blob/main/README.md|
+|Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code.|1.5| https://github.com/apurva-s/polly/blob/main/backend/README.md |
 |Use of version control tools	|2||
-|Use of style checkers	|3||
-|Use of code formatters.	|3||
-|Use of syntax checkers.	|3||
-|Use of code coverage	|2.5||
-|Other automated analysis tools	|1.5||
-|Test cases exist	|1.5||
-|Test cases are routinely executed	|2||
-|The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up	|2||
-|Issues are discussed before they are closed	|2.5||
+|Use of style checkers	|3| https://github.com/apurva-s/polly/blob/main/frontend/package.json, https://github.com/apurva-s/polly/blob/main/backend/.eslintrc.json, https://github.com/apurva-s/polly/blob/main/images/eslint_in_action.jpeg |
+|Use of code formatters.	|3| https://github.com/apurva-s/polly/blob/main/frontend/.prettierrc.json, https://github.com/apurva-s/polly/blob/main/backend/.eslintrc.json, https://github.com/apurva-s/polly/blob/main/images/eslint_in_action.jpeg |
+|Use of syntax checkers.	|3| https://github.com/apurva-s/polly/blob/main/backend/package.json , https://github.com/apurva-s/polly/blob/main/images/eslint_in_action.jpeg |
+|Use of code coverage	|2.5| https://github.com/apurva-s/polly/tree/main/backend/coverage, https://github.com/apurva-s/polly/blob/main/Code%20Coverage%20Report%20by%20Phase%203 |
+|Other automated analysis tools	|1.5| https://github.com/apurva-s/polly/actions |
+|Test cases exist	|1.5|  https://github.com/apurva-s/polly/tree/main/backend , https://github.com/apurva-s/polly/blob/main/docs/UI%20MANUAL%20TESTING%20DOCUMENT%20(1).pdf, https://github.com/apurva-s/polly/blob/main/Code%20Coverage%20Report%20by%20Phase%203 |
+|Test cases are routinely executed	|2|https://github.com/apurva-s/polly/blob/main/.github/workflows/build.yml|
+|The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up	|2| https://github.com/apurva-s/polly/blob/main/CONTRIBUTING.md |
+|Issues are discussed before they are closed	|2.5| https://github.com/apurva-s/polly/issues/13, https://github.com/apurva-s/polly/issues/6, https://github.com/apurva-s/polly/issues/5 |
 |Chat channel: exists	|0||
-|Test cases: a large proportion of the issues related to handling failing cases.	|2||
+|Test cases: a large proportion of the issues related to handling failing cases.	|2| https://github.com/apurva-s/polly/issues?q=is%3Aissue+is%3Aclosed+label%3Aenhancement, https://github.com/apurva-s/polly/issues?q=is%3Aissue+is%3Aclosed+label%3Abug, https://github.com/apurva-s/polly/blob/main/docs/UI%20MANUAL%20TESTING%20DOCUMENT%20(1).pdf |
 |Evidence that the whole team is using the same tools: everyone can get to all tools and files	|3||
-|Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)	|2||
+|Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)	|2| https://github.com/apurva-s/polly/blob/main/docker-compose.yml , https://github.com/apurva-s/polly/tree/main/frontend/.vscode |
 |Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)	|2||
-|Evidence that the members of the team are working across multiple places in the code base	|2||
-|Short release cycles	|2||
+|Evidence that the members of the team are working across multiple places in the code base	|2| https://github.com/apurva-s/polly/graphs/contributors |
+|Short release cycles	|2| https://github.com/apurva-s/polly/tags |
 |Does your website and documentation provide a clear, high-level overview of your software?|Yes|
 |Does your website and documentation clearly describe the type of user who should use your software?|Yes||
 |Do you publish case studies to show how your software has been used by yourself and others?|No||
