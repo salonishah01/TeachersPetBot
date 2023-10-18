@@ -7,7 +7,7 @@ Please note we have a code of conduct, please follow it in all your interactions
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by the [Code of Conduct]((https://github.com/salonishah01/WolfTrackPlus/blob/main/CODE_OF_CONDUCT.md)). By participating, you are expected to uphold this code. Please report unacceptable behavior to [rushilvegada@gmail.com](mailto:rushilvegada@gmail.com).
+This project and everyone participating in it is governed by the [Code of Conduct](https://github.com/salonishah01/WolfTrackPlus/blob/main/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [rushilvegada@gmail.com](mailto:rushilvegada@gmail.com).
 
 ## Pull Request Process
 
