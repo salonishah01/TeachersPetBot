@@ -221,7 +221,7 @@ For more detailed description - Check [Changes.md](https://github.com/ramyasaimu
 - [ ] Enabling Desktop Notifications
 
 ## Contributions to the Project
-Please refer to the [Contributing.md](https://github.com/ramyasaimullapudi/WolfTrackPlus/blob/main/CONTRIBUTING.md) if you want to contrbute to the Wolftrack source code. Follow all the guidelines mentioned and raise a pull request for the developers to review before the code goes to the main source code.
+Please refer to the [Contributing.md](https://github.com/salonishah01/WolfTrackPlus/blob/main/Project2/CONTRIBUTING.md) if you want to contrbute to the Wolftrack source code. Follow all the guidelines mentioned and raise a pull request for the developers to review before the code goes to the main source code.
 
 
 ## Contact 
