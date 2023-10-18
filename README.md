@@ -125,7 +125,10 @@ Do away with complicated, messy spreadsheets! WolfTrack keeps track of every job
 ## Third-Party Tools
 
 - [AWS Relational Database Service-RDS](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html)
-  -  The AWS Database is used as a primary DB by the location. The application interacts with the DB and no additional steps are required from the users. For any contributors or future developers, please mail to wolftrackse@gmail.com to get your AWS IAM user account details to connect to AWS RDS.
+  -  The AWS Database is used as a primary DB by the location. The application interacts with the DB and no additional steps are required from the users.
+  -  Create a RDS server in AWS and make the changes in sql_helper.py
+  -  For any contributors or future developers, please mail to wolftrackse@gmail.com to get your AWS IAM user account details to connect to AWS RDS.
+  
 
 ---
 ## Preview
