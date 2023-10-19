@@ -2,7 +2,9 @@
 
 ### Watch WolftrackPlus in Action
 
-[Youtube Link](https://youtu.be/Z_OqqHXdwJ0)
+[Project 1 - Link](https://youtu.be/Z_OqqHXdwJ0)
+
+[Project 2 - Link](https://youtu.be/12VUntGWZys)
 
 ### Version Tags
 
@@ -125,7 +127,10 @@ Do away with complicated, messy spreadsheets! WolfTrack keeps track of every job
 ## Third-Party Tools
 
 - [AWS Relational Database Service-RDS](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html)
-  -  The AWS Database is used as a primary DB by the location. The application interacts with the DB and no additional steps are required from the users. For any contributors or future developers, please mail to wolftrackse@gmail.com to get your AWS IAM user account details to connect to AWS RDS.
+  -  The AWS Database is used as a primary DB by the location. The application interacts with the DB and no additional steps are required from the users.
+  -  Create a RDS server in AWS and make the changes in sql_helper.py
+  -  For any contributors or future developers, please mail to wolftrackse@gmail.com to get your AWS IAM user account details to connect to AWS RDS.
+  
 
 ---
 ## Preview
@@ -179,6 +184,17 @@ An email is sent when a new account is created, new job application is submitted
 ![image](https://user-images.githubusercontent.com/51504486/144724525-adb6691e-046a-479c-a050-341b9cf64d73.png)
 
 ![image](https://user-images.githubusercontent.com/51504486/144724556-7d3bad98-5175-4663-bc2d-b601dac4137f.png)
+
+## Project 2: SkillSync
+
+![image](https://github.com/salonishah01/WolfTrackPlus/assets/59621149/38639c10-d489-42a8-a7d6-1b2c931faeef)
+
+![image](https://github.com/salonishah01/WolfTrackPlus/assets/59621149/f8b8bcab-52b8-458e-a833-1670067c2eda)
+
+![image](https://github.com/salonishah01/WolfTrackPlus/assets/59621149/03da603c-d8cc-482e-92ba-787dac032183)
+
+
+
 
 
 ### Phase 1:
