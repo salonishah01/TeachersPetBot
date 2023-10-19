@@ -185,6 +185,17 @@ An email is sent when a new account is created, new job application is submitted
 
 ![image](https://user-images.githubusercontent.com/51504486/144724556-7d3bad98-5175-4663-bc2d-b601dac4137f.png)
 
+## Project 2: SkillSync
+
+![image](https://github.com/salonishah01/WolfTrackPlus/assets/59621149/38639c10-d489-42a8-a7d6-1b2c931faeef)
+
+![image](https://github.com/salonishah01/WolfTrackPlus/assets/59621149/f8b8bcab-52b8-458e-a833-1670067c2eda)
+
+![image](https://github.com/salonishah01/WolfTrackPlus/assets/59621149/03da603c-d8cc-482e-92ba-787dac032183)
+
+
+
+
 
 ### Phase 1:
 
