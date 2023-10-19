@@ -2,7 +2,9 @@
 
 ### Watch WolftrackPlus in Action
 
-[Youtube Link](https://youtu.be/Z_OqqHXdwJ0)
+[Project 1 - Link](https://youtu.be/Z_OqqHXdwJ0)
+
+[Project 2 - Link](https://youtu.be/12VUntGWZys)
 
 ### Version Tags
 
