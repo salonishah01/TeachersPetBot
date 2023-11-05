@@ -122,6 +122,11 @@ Do away with complicated, messy spreadsheets! WolfTrack keeps track of every job
 
      - Site will be hosted at:
        `http://127.0.0.1:5000/`
+
+  - ### Run Instructions for SkillSync
+
+    - `cd '.\Project2\WolfTrackPlus - SkillSync\'`
+    - `npm run dev` 
     
 ---
 ## Third-Party Tools
